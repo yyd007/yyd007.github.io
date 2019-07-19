@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yangyang Dai, Horrible 007, Launches Site"
+title: "Yangyang Dai, Detective 007, Launches Site"
 date: 2019-07-19
 ---
 
