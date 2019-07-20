@@ -1,5 +1,3 @@
 name: Yangyang, Detective 007
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-slate
